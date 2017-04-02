@@ -1,0 +1,2559 @@
+<StartPos type="array">
+    <value>
+      <Map type="string">A-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon118</PosName>
+      <Rotate X="0f" Y="93.30932f" Z="0f" />
+      <Translate X="-4013.946f" Y="288.1042f" Z="-3712.17f" />
+    </value>
+    <value>
+      <Map type="string">A-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon118_1</PosName>
+      <Rotate X="0f" Y="93.30932f" Z="0f" />
+      <Translate X="-4015.638f" Y="288.1042f" Z="-3712.072f" />
+    </value>
+    <value>
+      <Map type="string">A-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon088</PosName>
+      <Rotate X="0f" Y="51.65746f" Z="0f" />
+      <Translate X="-4439.591f" Y="329.8666f" Z="-3797.335f" />
+    </value>
+    <value>
+      <Map type="string">A-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon088_1</PosName>
+      <Rotate X="0f" Y="51.65746f" Z="0f" />
+      <Translate X="-4440.92f" Y="329.8666f" Z="-3798.386f" />
+    </value>
+    <value>
+      <Map type="string">A-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon051</PosName>
+      <Rotate X="0f" Y="-83.75113f" Z="0f" />
+      <Translate X="-4066.982f" Y="94.90372f" Z="-2507.365f" />
+    </value>
+    <value>
+      <Map type="string">A-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon051_1</PosName>
+      <Rotate X="0f" Y="-83.75113f" Z="0f" />
+      <Translate X="-4065.297f" Y="94.90372f" Z="-2507.55f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon012</PosName>
+      <Rotate X="0f" Y="125f" Z="0f" />
+      <Translate X="-4008.649f" Y="275.2154f" Z="-1727.187f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PosName type="string">CDungeon012_1</PosName>
+      <Rotate X="0f" Y="125f" Z="0f" />
+      <Translate X="-4009.628f" Y="275.1873f" Z="-1726.501f" />
+    </value>
+    <value>
+      <Map type="string">A-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon059</PosName>
+      <Rotate X="0f" Y="-80.21407f" Z="0f" />
+      <Translate X="-4129.475f" Y="184.3011f" Z="-412.8069f" />
+    </value>
+    <value>
+      <Map type="string">A-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon059_1</PosName>
+      <Rotate X="0f" Y="-80.21407f" Z="0f" />
+      <Translate X="-4127.804f" Y="184.3011f" Z="-413.0951f" />
+    </value>
+    <value>
+      <Map type="string">A-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon085</PosName>
+      <Rotate X="0f" Y="82.5059f" Z="0f" />
+      <Translate X="-4649.368f" Y="619.5056f" Z="906.0386f" />
+    </value>
+    <value>
+      <Map type="string">A-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon085_1</PosName>
+      <Rotate X="0f" Y="82.5059f" Z="0f" />
+      <Translate X="-4651.049f" Y="619.5056f" Z="905.8175f" />
+    </value>
+    <value>
+      <Map type="string">A-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon063</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-4673.53f" Y="132.133f" Z="1976.985f" />
+    </value>
+    <value>
+      <Map type="string">A-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon063_1</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-4673.53f" Y="132.133f" Z="1975.29f" />
+    </value>
+    <value>
+      <Map type="string">A-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon094</PosName>
+      <Rotate X="0f" Y="98.7312f" Z="0f" />
+      <Translate X="-4790.048f" Y="135.1403f" Z="2798.787f" />
+    </value>
+    <value>
+      <Map type="string">A-7</Map>
+      <PosName type="string">CDungeon094_1</PosName>
+      <Rotate X="0f" Y="98.7312f" Z="0f" />
+      <Translate X="-4791.229f" Y="135.1122f" Z="2798.968f" />
+    </value>
+    <value>
+      <Map type="string">A-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon003</PosName>
+      <Rotate X="0f" Y="-23.44537f" Z="0f" />
+      <Translate X="-4850.694f" Y="123.756f" Z="3781.066f" />
+    </value>
+    <value>
+      <Map type="string">A-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon003_1</PosName>
+      <Rotate X="0f" Y="-23.44537f" Z="0f" />
+      <Translate X="-4850.02f" Y="123.756f" Z="3779.511f" />
+    </value>
+    <value>
+      <Map type="string">B-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon087</PosName>
+      <Rotate X="0f" Y="91.95715f" Z="0f" />
+      <Translate X="-3618.519f" Y="420.8361f" Z="-3038.538f" />
+    </value>
+    <value>
+      <Map type="string">B-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon087_1</PosName>
+      <Rotate X="0f" Y="91.95715f" Z="0f" />
+      <Translate X="-3620.214f" Y="420.8361f" Z="-3038.48f" />
+    </value>
+    <value>
+      <Map type="string">B-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon053</PosName>
+      <Rotate X="0f" Y="122.5098f" Z="0f" />
+      <Translate X="-3815.326f" Y="265.1334f" Z="-2211.3f" />
+    </value>
+    <value>
+      <Map type="string">B-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon053_1</PosName>
+      <Rotate X="0f" Y="122.5098f" Z="0f" />
+      <Translate X="-3816.756f" Y="265.1334f" Z="-2210.389f" />
+    </value>
+    <value>
+      <Map type="string">B-2</Map>
+      <PosName type="string">ParashawlPlaying</PosName>
+      <Rotate X="0f" Y="-60f" Z="0f" />
+      <Translate X="-3802.925f" Y="267.3545f" Z="-2313.198f" />
+    </value>
+    <value>
+      <Map type="string">B-2</Map>
+      <PosName type="string">RemainsWind_Escape</PosName>
+      <Rotate X="0f" Y="-240f" Z="0f" />
+      <Translate X="-3799.705f" Y="267.3719f" Z="-2314.913f" />
+    </value>
+    <value>
+      <Map type="string">B-2</Map>
+      <PosName type="string">Demo020_0</PosName>
+      <Rotate X="0f" Y="-60f" Z="0f" />
+      <Translate X="-3801.307f" Y="267.4123f" Z="-2313.952f" />
+    </value>
+    <value>
+      <Map type="string">B-2</Map>
+      <PosName type="string">ParashawlTalk</PosName>
+      <Rotate X="0f" Y="63f" Z="0f" />
+      <Translate X="-3800.246f" Y="267.4123f" Z="-2314.58f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoTraining</PosName>
+      <Rotate X="0f" Y="141.7685f" Z="0f" />
+      <Translate X="-3611.769f" Y="323.6241f" Z="-1823.245f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Saki_Demo</PosName>
+      <Rotate X="0f" Y="61.87944f" Z="0f" />
+      <Translate X="-3608.404f" Y="323.6241f" Z="-1822.311f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon035</PosName>
+      <Rotate X="0f" Y="174.4924f" Z="0f" />
+      <Translate X="-3655.246f" Y="321.7578f" Z="-1765.858f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon035_1</PosName>
+      <Rotate X="0f" Y="174.4924f" Z="0f" />
+      <Translate X="-3655.409f" Y="321.7578f" Z="-1764.17f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PosName type="string">PedaMove</PosName>
+      <Rotate X="0f" Y="-137.5099f" Z="0f" />
+      <Translate X="-3597.621f" Y="287.599f" Z="-1812.036f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PosName type="string">Demo702_0</PosName>
+      <Rotate X="0f" Y="-175.416f" Z="0f" />
+      <Translate X="-3596.256f" Y="317.934f" Z="-1806.523f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon008</PosName>
+      <Rotate X="0f" Y="168.0215f" Z="0f" />
+      <Translate X="-3607.285f" Y="246.7504f" Z="-1524.394f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PosName type="string">CDungeon008_1</PosName>
+      <Rotate X="0f" Y="168.0215f" Z="0f" />
+      <Translate X="-3607.533f" Y="246.7223f" Z="-1523.225f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessRito</PosName>
+      <Rotate X="0f" Y="-80.83269f" Z="0f" />
+      <Translate X="-3607.239f" Y="286.2824f" Z="-1805.525f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">RemainsWind</PosName>
+      <Rotate X="0f" Y="-92.38313f" Z="0f" />
+      <Translate X="-3589.792f" Y="317.954f" Z="-1802.255f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">KarnFront</PosName>
+      <Rotate X="0f" Y="-170.7414f" Z="0f" />
+      <Translate X="-3626.774f" Y="323.5673f" Z="-1828.071f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Demo019_0</PosName>
+      <Rotate X="0f" Y="215f" Z="0f" />
+      <Translate X="-3620f" Y="817f" Z="-1810f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">WindRelicBattle_SkyStart</PosName>
+      <Rotate X="0f" Y="215f" Z="0f" />
+      <Translate X="-3620f" Y="817f" Z="-1810f" />
+    </value>
+    <value>
+      <Map type="string">B-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Clear_RemainsWind</PosName>
+      <Rotate X="0f" Y="-175.4163f" Z="0f" />
+      <Translate X="-3622.038f" Y="515.6399f" Z="-1797.226f" />
+    </value>
+    <value>
+      <Map type="string">B-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon083</PosName>
+      <Rotate X="0f" Y="-61.879f" Z="0f" />
+      <Translate X="-3473.584f" Y="384.5054f" Z="-443.6366f" />
+    </value>
+    <value>
+      <Map type="string">B-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon083_1</PosName>
+      <Rotate X="0f" Y="-61.879f" Z="0f" />
+      <Translate X="-3472.089f" Y="384.5054f" Z="-444.4357f" />
+    </value>
+    <value>
+      <Map type="string">B-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower02</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-3613.748f" Y="445.0575f" Z="-981.1647f" />
+    </value>
+    <value>
+      <Map type="string">B-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon100</PosName>
+      <Rotate X="0f" Y="110f" Z="0f" />
+      <Translate X="-3844.76f" Y="640.313f" Z="713.5551f" />
+    </value>
+    <value>
+      <Map type="string">B-5</Map>
+      <PosName type="string">CDungeon100_1</PosName>
+      <Rotate X="0f" Y="110f" Z="0f" />
+      <Translate X="-3845.882f" Y="640.2849f" Z="713.9639f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower03</PosName>
+      <Rotate X="0f" Y="-70f" Z="0f" />
+      <Translate X="-3674.457f" Y="471.0022f" Z="1831.678f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon043</PosName>
+      <Rotate X="0f" Y="-37.815f" Z="0f" />
+      <Translate X="-3088.638f" Y="571.5641f" Z="1228.264f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon043_1</PosName>
+      <Rotate X="0f" Y="-37.815f" Z="0f" />
+      <Translate X="-3087.598f" Y="571.5641f" Z="1226.925f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon036</PosName>
+      <Rotate X="0f" Y="139.9841f" Z="0f" />
+      <Translate X="-3905.344f" Y="396.014f" Z="1646.755f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PosName type="string">CDungeon036_1</PosName>
+      <Rotate X="0f" Y="139.9841f" Z="0f" />
+      <Translate X="-3906.112f" Y="395.9859f" Z="1647.67f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon076</PosName>
+      <Rotate X="0f" Y="-29.16334f" Z="0f" />
+      <Translate X="-3564.281f" Y="352.7898f" Z="1961.029f" />
+    </value>
+    <value>
+      <Map type="string">B-6</Map>
+      <PosName type="string">CDungeon076_1</PosName>
+      <Rotate X="0f" Y="-29.16334f" Z="0f" />
+      <Translate X="-3563.698f" Y="352.7617f" Z="1959.986f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Gerudo001</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="-3784.69f" Y="149.0984f" Z="2864.455f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Oasis001</PosName>
+      <Rotate X="0f" Y="-46.98254f" Z="0f" />
+      <Translate X="-3195.981f" Y="129.4205f" Z="2549.314f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon032</PosName>
+      <Rotate X="0f" Y="78.54049f" Z="0f" />
+      <Translate X="-3308.77f" Y="146.1268f" Z="2164.307f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon032_1</PosName>
+      <Rotate X="0f" Y="78.54049f" Z="0f" />
+      <Translate X="-3310.432f" Y="146.1268f" Z="2163.97f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon060</PosName>
+      <Rotate X="0f" Y="134.1634f" Z="0f" />
+      <Translate X="-3810.435f" Y="150.4598f" Z="2813.448f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon060_1</PosName>
+      <Rotate X="0f" Y="134.1634f" Z="0f" />
+      <Translate X="-3811.651f" Y="150.4598f" Z="2814.629f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PosName type="string">Gerudo_CarryIce_Start</PosName>
+      <Rotate X="0f" Y="35f" Z="0f" />
+      <Translate X="-3754.99f" Y="139.35f" Z="2276.35f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PosName type="string">CarryIce_mini_Failed</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-3749.84f" Y="139.3375f" Z="2275.56f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PosName type="string">Anche_Fire_GetOut</PosName>
+      <Rotate X="0f" Y="-164f" Z="0f" />
+      <Translate X="-3745.1f" Y="146.1712f" Z="2302.12f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Guard</PlayerState>
+      <PosName type="string">EastGate_Stop</PosName>
+      <Rotate X="0f" Y="46.98254f" Z="0f" />
+      <Translate X="-3921.755f" Y="148.9996f" Z="2874.624f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Guard</PlayerState>
+      <PosName type="string">WestGate_Stop</PosName>
+      <Rotate X="0f" Y="-130.6344f" Z="0f" />
+      <Translate X="-3751.557f" Y="148.9647f" Z="2951.931f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Guard</PlayerState>
+      <PosName type="string">FrontGate_Stop</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="-3783f" Y="148.7889f" Z="2861.5f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PosName type="string">PaudaMove</PosName>
+      <Rotate X="0f" Y="-19.48056f" Z="0f" />
+      <Translate X="-3270.016f" Y="128.9716f" Z="2582.324f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Guard</PlayerState>
+      <PosName type="string">StopStep_C</PosName>
+      <Rotate X="0f" Y="-43.14422f" Z="0f" />
+      <Translate X="-3863.275f" Y="156.301f" Z="2942.385f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessGerudo</PosName>
+      <Rotate X="0f" Y="-131.471f" Z="0f" />
+      <Translate X="-3767.232f" Y="148.977f" Z="2946.472f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PosName type="string">Demo378_1_01</PosName>
+      <Rotate X="0f" Y="63.02536f" Z="0f" />
+      <Translate X="-3261.136f" Y="164.3695f" Z="2610.376f" />
+    </value>
+    <value>
+      <Map type="string">B-7</Map>
+      <PosName type="string">RemainsElectric</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="-3782.419f" Y="148.7565f" Z="2860.417f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">Demo330_1_2_010</PosName>
+      <Rotate X="0f" Y="-160f" Z="0f" />
+      <Translate X="-3772f" Y="154.7746f" Z="3115.5f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">Demo330_1_b2_010</PosName>
+      <Rotate X="0f" Y="63.14196f" Z="0f" />
+      <Translate X="-3763f" Y="154.8143f" Z="3114.5f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">Demo330_0_1_010</PosName>
+      <Rotate X="0f" Y="108f" Z="0f" />
+      <Translate X="-3763.8f" Y="154.87f" Z="3109.78f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon093</PosName>
+      <Rotate X="0f" Y="110f" Z="0f" />
+      <Translate X="-3801.86f" Y="159.313f" Z="3124.055f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">CDungeon093_1</PosName>
+      <Rotate X="0f" Y="110f" Z="0f" />
+      <Translate X="-3802.982f" Y="159.2849f" Z="3124.464f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">ibuturetry</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-3441.556f" Y="158.1742f" Z="3114.731f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">ibutubattleStart</PosName>
+      <Rotate X="0f" Y="67.8152f" Z="0f" />
+      <Translate X="-3252.022f" Y="122.7758f" Z="3284.61f" />
+    </value>
+    <value>
+      <Map type="string">B-8</Map>
+      <PosName type="string">RemainsElectric_Escape</PosName>
+      <Rotate X="0f" Y="180f" Z="0f" />
+      <Translate X="-3441.544f" Y="158.1705f" Z="3114.221f" />
+    </value>
+    <value>
+      <Map type="string">B-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon046</PosName>
+      <Rotate X="0f" Y="18.32671f" Z="0f" />
+      <Translate X="-2995.728f" Y="667.7664f" Z="-3212.855f" />
+    </value>
+    <value>
+      <Map type="string">B-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon046_1</PosName>
+      <Rotate X="0f" Y="18.32671f" Z="0f" />
+      <Translate X="-2996.261f" Y="667.7664f" Z="-3214.465f" />
+    </value>
+    <value>
+      <Map type="string">C-1</Map>
+      <PosName type="string">Slemie_Anger_out</PosName>
+      <Rotate X="0f" Y="129.4884f" Z="0f" />
+      <Translate X="-2958.9f" Y="676.6957f" Z="-3136.45f" />
+    </value>
+    <value>
+      <Map type="string">C-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon018</PosName>
+      <Rotate X="0f" Y="82.41473f" Z="0f" />
+      <Translate X="-2368.893f" Y="485.9271f" Z="-3223.528f" />
+    </value>
+    <value>
+      <Map type="string">C-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon018_1</PosName>
+      <Rotate X="0f" Y="82.41473f" Z="0f" />
+      <Translate X="-2370.573f" Y="485.9271f" Z="-3223.752f" />
+    </value>
+    <value>
+      <Map type="string">C-1</Map>
+      <PosName type="string">Slemie_Anger</PosName>
+      <Rotate X="0f" Y="129.4884f" Z="0f" />
+      <Translate X="-2954.967f" Y="677.5513f" Z="-3139.745f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon104</PosName>
+      <Rotate X="0f" Y="-157.7081f" Z="0f" />
+      <Translate X="-2639.854f" Y="446.0452f" Z="-2068.871f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon104_1</PosName>
+      <Rotate X="0f" Y="-157.7081f" Z="0f" />
+      <Translate X="-2639.211f" Y="446.0452f" Z="-2067.302f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower01</PosName>
+      <Rotate X="0f" Y="60f" Z="0f" />
+      <Translate X="-2165.206f" Y="529.2022f" Z="-2029.5f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon052</PosName>
+      <Rotate X="0f" Y="-144.3893f" Z="0f" />
+      <Translate X="-2385.191f" Y="278.1229f" Z="-2262.067f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon052_1</PosName>
+      <Rotate X="0f" Y="-144.3893f" Z="0f" />
+      <Translate X="-2384.204f" Y="278.1229f" Z="-2260.689f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon086</PosName>
+      <Rotate X="0f" Y="-75.57118f" Z="0f" />
+      <Translate X="-2801.211f" Y="671.0319f" Z="-2880.021f" />
+    </value>
+    <value>
+      <Map type="string">C-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon086_1</PosName>
+      <Rotate X="0f" Y="-75.57118f" Z="0f" />
+      <Translate X="-2799.569f" Y="671.0319f" Z="-2880.443f" />
+    </value>
+    <value>
+      <Map type="string">C-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon055</PosName>
+      <Rotate X="0f" Y="24.06422f" Z="0f" />
+      <Translate X="-2828.722f" Y="79.888f" Z="-1569.648f" />
+    </value>
+    <value>
+      <Map type="string">C-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon055_1</PosName>
+      <Rotate X="0f" Y="24.06422f" Z="0f" />
+      <Translate X="-2829.413f" Y="79.888f" Z="-1571.196f" />
+    </value>
+    <value>
+      <Map type="string">C-3</Map>
+      <PosName type="string">MiniGame_Crosscountry_Start</PosName>
+      <Rotate X="0f" Y="-85f" Z="0f" />
+      <Translate X="-2649f" Y="289.1318f" Z="-1168f" />
+    </value>
+    <value>
+      <Map type="string">C-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon037</PosName>
+      <Rotate X="0f" Y="171.031f" Z="0f" />
+      <Translate X="-2929.483f" Y="306.459f" Z="-441.1336f" />
+    </value>
+    <value>
+      <Map type="string">C-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon037_1</PosName>
+      <Rotate X="0f" Y="171.031f" Z="0f" />
+      <Translate X="-2929.747f" Y="306.459f" Z="-439.459f" />
+    </value>
+    <value>
+      <Map type="string">C-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon021</PosName>
+      <Rotate X="0f" Y="180f" Z="0f" />
+      <Translate X="-2269.1f" Y="216.5925f" Z="-909.295f" />
+    </value>
+    <value>
+      <Map type="string">C-4</Map>
+      <PosName type="string">CDungeon021_1</PosName>
+      <Rotate X="0f" Y="180f" Z="0f" />
+      <Translate X="-2269.1f" Y="216.5644f" Z="-908.1f" />
+    </value>
+    <value>
+      <Map type="string">C-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon058</PosName>
+      <Rotate X="0f" Y="-20.62648f" Z="0f" />
+      <Translate X="-2300.671f" Y="439.5814f" Z="469.334f" />
+    </value>
+    <value>
+      <Map type="string">C-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon058_1</PosName>
+      <Rotate X="0f" Y="-20.62648f" Z="0f" />
+      <Translate X="-2300.074f" Y="439.5814f" Z="467.7474f" />
+    </value>
+    <value>
+      <Map type="string">C-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon078</PosName>
+      <Rotate X="0f" Y="-133.755f" Z="0f" />
+      <Translate X="-2749.911f" Y="309.4065f" Z="220.0792f" />
+    </value>
+    <value>
+      <Map type="string">C-5</Map>
+      <PosName type="string">CDungeon078_1</PosName>
+      <Rotate X="0f" Y="-133.755f" Z="0f" />
+      <Translate X="-2749.048f" Y="309.3784f" Z="220.9057f" />
+    </value>
+    <value>
+      <Map type="string">C-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon030</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-2004.008f" Y="231.6602f" Z="1683.458f" />
+    </value>
+    <value>
+      <Map type="string">C-6</Map>
+      <PosName type="string">CDungeon030_1</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-2004.008f" Y="231.6321f" Z="1682.263f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">HyruleCastle_Start</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="-2704.35f" Y="274.6094f" Z="2349.781f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower04</PosName>
+      <Rotate X="0f" Y="-60f" Z="0f" />
+      <Translate X="-2314.63f" Y="530.2022f" Z="2441.82f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon010</PosName>
+      <Rotate X="0f" Y="84.70654f" Z="0f" />
+      <Translate X="-2801.808f" Y="172.0212f" Z="2300.933f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon010_1</PosName>
+      <Rotate X="0f" Y="84.70654f" Z="0f" />
+      <Translate X="-2803.496f" Y="172.0212f" Z="2300.776f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Clear_RemainsElectric</PosName>
+      <Rotate X="0f" Y="20f" Z="0f" />
+      <Translate X="-2138.954f" Y="470.6536f" Z="2553.201f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon110</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="-2695.102f" Y="105.0184f" Z="2817.702f" />
+    </value>
+    <value>
+      <Map type="string">C-7</Map>
+      <PosName type="string">CDungeon110_1</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="-2694.257f" Y="104.9903f" Z="2816.857f" />
+    </value>
+    <value>
+      <Map type="string">C-8</Map>
+      <PosName type="string">RemainsElectric_1</PosName>
+      <Rotate X="0f" Y="180f" Z="0f" />
+      <Translate X="-2514.037f" Y="118.3311f" Z="3545.777f" />
+    </value>
+    <value>
+      <Map type="string">C-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon107</PosName>
+      <Rotate X="0f" Y="150f" Z="0f" />
+      <Translate X="-2965.702f" Y="137.6864f" Z="3773.537f" />
+    </value>
+    <value>
+      <Map type="string">C-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon107_1</PosName>
+      <Rotate X="0f" Y="150f" Z="0f" />
+      <Translate X="-2966.55f" Y="137.6864f" Z="3775.005f" />
+    </value>
+    <value>
+      <Map type="string">D-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon062</PosName>
+      <Rotate X="0f" Y="125.6147f" Z="0f" />
+      <Translate X="-1665.694f" Y="346.5799f" Z="-3763.801f" />
+    </value>
+    <value>
+      <Map type="string">D-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon062_1</PosName>
+      <Rotate X="0f" Y="125.6147f" Z="0f" />
+      <Translate X="-1667.072f" Y="346.5799f" Z="-3762.813f" />
+    </value>
+    <value>
+      <Map type="string">D-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon042</PosName>
+      <Rotate X="0f" Y="99.78591f" Z="0f" />
+      <Translate X="-1712.313f" Y="335.7542f" Z="-2556.019f" />
+    </value>
+    <value>
+      <Map type="string">D-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon042_1</PosName>
+      <Rotate X="0f" Y="99.78591f" Z="0f" />
+      <Translate X="-1713.984f" Y="335.7542f" Z="-2555.731f" />
+    </value>
+    <value>
+      <Map type="string">D-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon115</PosName>
+      <Rotate X="0f" Y="-40f" Z="0f" />
+      <Translate X="-1094.067f" Y="22.06107f" Z="-2654.466f" />
+    </value>
+    <value>
+      <Map type="string">D-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon115_1</PosName>
+      <Rotate X="0f" Y="-40f" Z="0f" />
+      <Translate X="-1092.978f" Y="22.06107f" Z="-2655.765f" />
+    </value>
+    <value>
+      <Map type="string">D-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessForgottenShrine</PosName>
+      <Rotate X="0f" Y="140f" Z="0f" />
+      <Translate X="-1066.579f" Y="24.21512f" Z="-2687.226f" />
+    </value>
+    <value>
+      <Map type="string">D-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon092</PosName>
+      <Rotate X="0f" Y="-145f" Z="0f" />
+      <Translate X="-1945.174f" Y="249.8943f" Z="-1465.732f" />
+    </value>
+    <value>
+      <Map type="string">D-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon092_1</PosName>
+      <Rotate X="0f" Y="-145f" Z="0f" />
+      <Translate X="-1944.202f" Y="249.8943f" Z="-1464.344f" />
+    </value>
+    <value>
+      <Map type="string">D-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon011</PosName>
+      <Rotate X="0f" Y="-140.5194f" Z="0f" />
+      <Translate X="-1494.451f" Y="275.2352f" Z="-1480.129f" />
+    </value>
+    <value>
+      <Map type="string">D-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon011_1</PosName>
+      <Rotate X="0f" Y="-140.5194f" Z="0f" />
+      <Translate X="-1493.373f" Y="275.2352f" Z="-1478.82f" />
+    </value>
+    <value>
+      <Map type="string">D-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon004</PosName>
+      <Rotate X="0f" Y="-18.51723f" Z="8.94165E-07f" />
+      <Translate X="-1435.218f" Y="138.332f" Z="-585.4749f" />
+    </value>
+    <value>
+      <Map type="string">D-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon004_1</PosName>
+      <Rotate X="0f" Y="-18.51723f" Z="8.94165E-07f" />
+      <Translate X="-1434.68f" Y="138.332f" Z="-587.0825f" />
+    </value>
+    <value>
+      <Map type="string">D-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower15</PosName>
+      <Rotate X="0f" Y="-160f" Z="0f" />
+      <Translate X="-1758.378f" Y="328.6022f" Z="-782.7573f" />
+    </value>
+    <value>
+      <Map type="string">D-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon020</PosName>
+      <Rotate X="0f" Y="118f" Z="0f" />
+      <Translate X="-1885.181f" Y="212.413f" Z="87.1832f" />
+    </value>
+    <value>
+      <Map type="string">D-5</Map>
+      <PosName type="string">CDungeon020_1</PosName>
+      <Rotate X="0f" Y="118f" Z="0f" />
+      <Translate X="-1886.236f" Y="212.3849f" Z="87.74423f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GameStart</PosName>
+      <Rotate X="0f" Y="141.039f" Z="0f" />
+      <Translate X="-1061f" Y="249.3409f" Z="1829.1f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPoint_Start</PosName>
+      <Rotate X="0f" Y="-39f" Z="0f" />
+      <Translate X="-1102.171f" Y="235.4902f" Z="1880.036f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Demo102_0</PosName>
+      <Rotate X="0f" Y="141.0389f" Z="0f" />
+      <Translate X="-1130.5f" Y="237.3927f" Z="1914.87f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon027</PosName>
+      <Rotate X="0f" Y="106.7323f" Z="0f" />
+      <Translate X="-1554.445f" Y="186.7413f" Z="1307.424f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon027_1</PosName>
+      <Rotate X="0f" Y="106.7323f" Z="0f" />
+      <Translate X="-1556.068f" Y="186.7413f" Z="1307.912f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos001</PosName>
+      <Rotate X="0f" Y="180f" Z="0f" />
+      <Translate X="-1639.378f" Y="132.8629f" Z="1018.318f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon072</PosName>
+      <Rotate X="0f" Y="-25f" Z="0f" />
+      <Translate X="-1699.177f" Y="68.85024f" Z="1708.454f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon072_1</PosName>
+      <Rotate X="0f" Y="-25f" Z="0f" />
+      <Translate X="-1698.461f" Y="68.85024f" Z="1706.917f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon065</PosName>
+      <Rotate X="0f" Y="106.5623f" Z="0f" />
+      <Translate X="-1427.532f" Y="337.59f" Z="1988.37f" />
+    </value>
+    <value>
+      <Map type="string">D-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon065_1</PosName>
+      <Rotate X="0f" Y="106.5623f" Z="0f" />
+      <Translate X="-1429.157f" Y="337.59f" Z="1988.853f" />
+    </value>
+    <value>
+      <Map type="string">D-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon001</PosName>
+      <Rotate X="0f" Y="-154.6987f" Z="0f" />
+      <Translate X="-1796.757f" Y="112.8661f" Z="2415.077f" />
+    </value>
+    <value>
+      <Map type="string">D-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon001_1</PosName>
+      <Rotate X="0f" Y="-154.6987f" Z="0f" />
+      <Translate X="-1796.033f" Y="112.8661f" Z="2416.61f" />
+    </value>
+    <value>
+      <Map type="string">D-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon090</PosName>
+      <Rotate X="0f" Y="25f" Z="0f" />
+      <Translate X="-1414.314f" Y="545.413f" Z="3456.634f" />
+    </value>
+    <value>
+      <Map type="string">D-8</Map>
+      <PosName type="string">CDungeon090_1</PosName>
+      <Rotate X="0f" Y="25f" Z="0f" />
+      <Translate X="-1414.819f" Y="545.3849f" Z="3455.551f" />
+    </value>
+    <value>
+      <Map type="string">D-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon103</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="-1795f" Y="164.1974f" Z="3456.195f" />
+    </value>
+    <value>
+      <Map type="string">D-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon103_1</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="-1795f" Y="164.1974f" Z="3457.891f" />
+    </value>
+    <value>
+      <Map type="string">E-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon116</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="-829.6953f" Y="341.313f" Z="-3535f" />
+    </value>
+    <value>
+      <Map type="string">E-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon116_1</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="-828f" Y="341.313f" Z="-3535f" />
+    </value>
+    <value>
+      <Map type="string">E-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon098</PosName>
+      <Rotate X="0f" Y="20.44404f" Z="0f" />
+      <Translate X="-23.2178f" Y="280.3546f" Z="-2450.009f" />
+    </value>
+    <value>
+      <Map type="string">E-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon098_1</PosName>
+      <Rotate X="0f" Y="20.44404f" Z="0f" />
+      <Translate X="-23.80997f" Y="280.3546f" Z="-2451.597f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon089</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="-156.5902f" Y="144.2347f" Z="-1159.346f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PosName type="string">CDungeon089_1</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="-155.3952f" Y="144.2066f" Z="-1159.346f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PosName type="string">LastBoss_Stage3</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-254f" Y="144.2992f" Z="-569f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PosName type="string">HyruleCastleExit</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-254f" Y="140.6027f" Z="-544.6484f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon074</PosName>
+      <Rotate X="0f" Y="-97.40284f" Z="0f" />
+      <Translate X="-960.3003f" Y="134.3756f" Z="-624.9405f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon074_1</PosName>
+      <Rotate X="0f" Y="-97.40284f" Z="0f" />
+      <Translate X="-958.6191f" Y="134.3756f" Z="-624.722f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon073</PosName>
+      <Rotate X="0f" Y="18.95323f" Z="0f" />
+      <Translate X="-633.4221f" Y="128.8799f" Z="-336.4139f" />
+    </value>
+    <value>
+      <Map type="string">E-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon073_1</PosName>
+      <Rotate X="0f" Y="18.95323f" Z="0f" />
+      <Translate X="-633.9728f" Y="128.8799f" Z="-338.0173f" />
+    </value>
+    <value>
+      <Map type="string">E-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon040</PosName>
+      <Rotate X="0f" Y="9.167322f" Z="0f" />
+      <Translate X="-966.3337f" Y="127.6782f" Z="724.9698f" />
+    </value>
+    <value>
+      <Map type="string">E-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon040_1</PosName>
+      <Rotate X="0f" Y="9.167322f" Z="0f" />
+      <Translate X="-966.6039f" Y="127.6782f" Z="723.2963f" />
+    </value>
+    <value>
+      <Map type="string">E-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower06</PosName>
+      <Rotate X="0f" Y="-84.05265f" Z="0f" />
+      <Translate X="-797.5966f" Y="197.6632f" Z="442.9631f" />
+    </value>
+    <value>
+      <Map type="string">E-5</Map>
+      <PosName type="string">BeastGanonBattleReady</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-96.79996f" Y="128.3705f" Z="320.7f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">MapTower07_Demo</PosName>
+      <Rotate X="0f" Y="106.661f" Z="0f" />
+      <Translate X="-560.9872f" Y="246.3922f" Z="1695.149f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon041</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="-455.8904f" Y="180.0318f" Z="1990.182f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon041_1</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="-454.1951f" Y="180.0318f" Z="1990.182f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon038</PosName>
+      <Rotate X="0f" Y="51.5662f" Z="0f" />
+      <Translate X="-666.0427f" Y="173.1039f" Z="1518.725f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon038_1</PosName>
+      <Rotate X="0f" Y="51.5662f" Z="0f" />
+      <Translate X="-667.3707f" Y="173.1039f" Z="1517.671f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower07</PosName>
+      <Rotate X="0f" Y="-73.33858f" Z="0f" />
+      <Translate X="-568.6573f" Y="246.4422f" Z="1697.444f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Npc_King</PosName>
+      <Rotate X="0f" Y="170f" Z="0f" />
+      <Translate X="-811.79f" Y="263.5728f" Z="1966.66f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">WaitAttentionUpper</PlayerState>
+      <PosName type="string">Demo027_2</PosName>
+      <Rotate X="0f" Y="-77.5f" Z="0f" />
+      <Translate X="-568f" Y="179.0963f" Z="1695.5f" />
+    </value>
+    <value>
+      <Map type="string">E-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">UtuwaGet</PosName>
+      <Rotate X="0f" Y="-9.694702f" Z="0f" />
+      <Translate X="-822.4728f" Y="225.455f" Z="2026.844f" />
+    </value>
+    <value>
+      <Map type="string">E-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower09</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="-31.81555f" Y="280.5009f" Z="2970.601f" />
+    </value>
+    <value>
+      <Map type="string">E-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon009</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="-925.0303f" Y="274.1815f" Z="2312.034f" />
+    </value>
+    <value>
+      <Map type="string">E-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon009_1</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="-925.0303f" Y="274.1815f" Z="2313.729f" />
+    </value>
+    <value>
+      <Map type="string">E-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon068</PosName>
+      <Rotate X="0f" Y="-99.78591f" Z="0f" />
+      <Translate X="-337.2426f" Y="68.03526f" Z="2598.727f" />
+    </value>
+    <value>
+      <Map type="string">E-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon068_1</PosName>
+      <Rotate X="0f" Y="-99.78591f" Z="0f" />
+      <Translate X="-335.572f" Y="68.03526f" Z="2599.015f" />
+    </value>
+    <value>
+      <Map type="string">E-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon069</PosName>
+      <Rotate X="0f" Y="-90.80259f" Z="0f" />
+      <Translate X="-993.9835f" Y="321.2284f" Z="3564.863f" />
+    </value>
+    <value>
+      <Map type="string">E-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon069_1</PosName>
+      <Rotate X="0f" Y="-90.80259f" Z="0f" />
+      <Translate X="-992.2885f" Y="321.2284f" Z="3564.887f" />
+    </value>
+    <value>
+      <Map type="string">F-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon108</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="292.595f" Y="285.313f" Z="-3119.6f" />
+    </value>
+    <value>
+      <Map type="string">F-1</Map>
+      <PosName type="string">CDungeon108_1</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="291.4f" Y="285.2849f" Z="-3119.6f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessKorok</PosName>
+      <Rotate X="0f" Y="-133.636f" Z="0f" />
+      <Translate X="418.0528f" Y="258.456f" Z="-2177.638f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PosName type="string">ShieldofKolog_Pcpos</PosName>
+      <Rotate X="0f" Y="-113.4457f" Z="0f" />
+      <Translate X="821.5339f" Y="280.4486f" Z="-2397.01f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon022</PosName>
+      <Rotate X="0f" Y="14.58367f" Z="0f" />
+      <Translate X="473.0184f" Y="250.1614f" Z="-2159.886f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon022_1</PosName>
+      <Rotate X="0f" Y="14.58367f" Z="0f" />
+      <Translate X="472.5916f" Y="250.1614f" Z="-2161.527f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">MasterSword</PosName>
+      <Rotate X="0f" Y="-171.004f" Z="0f" />
+      <Translate X="431.754f" Y="249.6999f" Z="-2110.387f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">MasterSword_Out</PosName>
+      <Rotate X="0f" Y="-171.004f" Z="0f" />
+      <Translate X="431.815f" Y="249.6999f" Z="-2110f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon106</PosName>
+      <Rotate X="0f" Y="-25f" Z="0f" />
+      <Translate X="833.1703f" Y="282.2083f" Z="-2411.384f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon106_1</PosName>
+      <Rotate X="0f" Y="-25f" Z="0f" />
+      <Translate X="833.8867f" Y="282.2083f" Z="-2412.92f" />
+    </value>
+    <value>
+      <Map type="string">F-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">OldKorokTalk</PosName>
+      <Rotate X="0f" Y="123.8501f" Z="0f" />
+      <Translate X="462.5901f" Y="249.585f" Z="-2110.082f" />
+    </value>
+    <value>
+      <Map type="string">F-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower05</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="883.8843f" Y="350.2365f" Z="-1596.71f" />
+    </value>
+    <value>
+      <Map type="string">F-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon095</PosName>
+      <Rotate X="0f" Y="46f" Z="0f" />
+      <Translate X="24.33951f" Y="281.413f" Z="-1938.011f" />
+    </value>
+    <value>
+      <Map type="string">F-3</Map>
+      <PosName type="string">CDungeon095_1</PosName>
+      <Rotate X="0f" Y="46f" Z="0f" />
+      <Translate X="23.47992f" Y="281.3849f" Z="-1938.842f" />
+    </value>
+    <value>
+      <Map type="string">F-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon079</PosName>
+      <Rotate X="0f" Y="-95.00394f" Z="0f" />
+      <Translate X="752.1265f" Y="188.7375f" Z="-822.102f" />
+    </value>
+    <value>
+      <Map type="string">F-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon079_1</PosName>
+      <Rotate X="0f" Y="-95.00394f" Z="0f" />
+      <Translate X="753.8152f" Y="188.7375f" Z="-821.9541f" />
+    </value>
+    <value>
+      <Map type="string">F-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon049</PosName>
+      <Rotate X="0f" Y="106.1878f" Z="0f" />
+      <Translate X="833.0358f" Y="132.8904f" Z="185.2243f" />
+    </value>
+    <value>
+      <Map type="string">F-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon049_1</PosName>
+      <Rotate X="0f" Y="106.1878f" Z="0f" />
+      <Translate X="831.4077f" Y="132.8904f" Z="185.6969f" />
+    </value>
+    <value>
+      <Map type="string">F-5</Map>
+      <PosName type="string">DontDamageFlower_Restart</PosName>
+      <Rotate X="0f" Y="115.7375f" Z="0f" />
+      <Translate X="818f" Y="115.3914f" Z="843.5f" />
+    </value>
+    <value>
+      <Map type="string">F-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon029</PosName>
+      <Rotate X="0f" Y="-46.98254f" Z="0f" />
+      <Translate X="848.011f" Y="116.9448f" Z="844.3292f" />
+    </value>
+    <value>
+      <Map type="string">F-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon029_1</PosName>
+      <Rotate X="0f" Y="-46.98254f" Z="0f" />
+      <Translate X="849.2506f" Y="116.9448f" Z="843.1727f" />
+    </value>
+    <value>
+      <Map type="string">F-5</Map>
+      <PosName type="string">OldKorok_WetlandsStable</PosName>
+      <Rotate X="0f" Y="11.5504f" Z="0f" />
+      <Translate X="869.906f" Y="131.538f" Z="199.4612f" />
+    </value>
+    <value>
+      <Map type="string">F-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon057</PosName>
+      <Rotate X="0f" Y="42.35294f" Z="0f" />
+      <Translate X="351.1085f" Y="123.0927f" Z="1013.826f" />
+    </value>
+    <value>
+      <Map type="string">F-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon057_1</PosName>
+      <Rotate X="0f" Y="42.35294f" Z="0f" />
+      <Translate X="349.9664f" Y="123.0927f" Z="1012.573f" />
+    </value>
+    <value>
+      <Map type="string">F-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon007</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="87.01651f" Y="122.5279f" Z="1649.51f" />
+    </value>
+    <value>
+      <Map type="string">F-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon007_1</PosName>
+      <Rotate X="0f" Y="-180f" Z="0f" />
+      <Translate X="87.01651f" Y="122.5279f" Z="1651.206f" />
+    </value>
+    <value>
+      <Map type="string">F-6</Map>
+      <PosName type="string">OldKorok_RiversideStable</PosName>
+      <Rotate X="0f" Y="48.21968f" Z="0f" />
+      <Translate X="384.8015f" Y="121.7253f" Z="1035.649f" />
+    </value>
+    <value>
+      <Map type="string">F-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon071</PosName>
+      <Rotate X="0f" Y="-9.304423f" Z="0f" />
+      <Translate X="558.039f" Y="118.0507f" Z="2999.266f" />
+    </value>
+    <value>
+      <Map type="string">F-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon071_1</PosName>
+      <Rotate X="0f" Y="-9.304423f" Z="0f" />
+      <Translate X="558.3131f" Y="118.0507f" Z="2997.593f" />
+    </value>
+    <value>
+      <Map type="string">F-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon113</PosName>
+      <Rotate X="0f" Y="9f" Z="0f" />
+      <Translate X="871.7767f" Y="123.0039f" Z="2337.623f" />
+    </value>
+    <value>
+      <Map type="string">F-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon113_1</PosName>
+      <Rotate X="0f" Y="9f" Z="0f" />
+      <Translate X="871.5115f" Y="123.0039f" Z="2335.948f" />
+    </value>
+    <value>
+      <Map type="string">F-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessBraveSpa</PosName>
+      <Rotate X="0f" Y="-170.3053f" Z="0f" />
+      <Translate X="875.4985f" Y="123.1815f" Z="2362.843f" />
+    </value>
+    <value>
+      <Map type="string">F-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon054</PosName>
+      <Rotate X="0f" Y="-160.5652f" Z="0f" />
+      <Translate X="520.2274f" Y="178.9204f" Z="3517.596f" />
+    </value>
+    <value>
+      <Map type="string">F-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon054_1</PosName>
+      <Rotate X="0f" Y="-160.5652f" Z="0f" />
+      <Translate X="520.7914f" Y="178.9204f" Z="3519.195f" />
+    </value>
+    <value>
+      <Map type="string">F-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon080</PosName>
+      <Rotate X="0f" Y="93.26956f" Z="0f" />
+      <Translate X="103.18f" Y="110.6849f" Z="3840.476f" />
+    </value>
+    <value>
+      <Map type="string">F-8</Map>
+      <PosName type="string">CDungeon080_1</PosName>
+      <Rotate X="0f" Y="93.26956f" Z="0f" />
+      <Translate X="101.987f" Y="110.6568f" Z="3840.544f" />
+    </value>
+    <value>
+      <Map type="string">G-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon028</PosName>
+      <Rotate X="0f" Y="55.71772f" Z="0f" />
+      <Translate X="1542.981f" Y="507.3476f" Z="-3112.852f" />
+    </value>
+    <value>
+      <Map type="string">G-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon028_1</PosName>
+      <Rotate X="0f" Y="55.71772f" Z="0f" />
+      <Translate X="1541.58f" Y="507.3476f" Z="-3113.807f" />
+    </value>
+    <value>
+      <Map type="string">G-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon026</PosName>
+      <Rotate X="0f" Y="-40.40447f" Z="0f" />
+      <Translate X="1751.259f" Y="535.3334f" Z="-2555.46f" />
+    </value>
+    <value>
+      <Map type="string">G-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon026_1</PosName>
+      <Rotate X="0f" Y="-40.40447f" Z="0f" />
+      <Translate X="1752.358f" Y="535.3334f" Z="-2556.751f" />
+    </value>
+    <value>
+      <Map type="string">G-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessGoron</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="1719.046f" Y="498.8981f" Z="-2456.243f" />
+    </value>
+    <value>
+      <Map type="string">G-2</Map>
+      <PosName type="string">RemainsFire</PosName>
+      <Rotate X="0f" Y="97.617f" Z="0f" />
+      <Translate X="1589.817f" Y="485.4137f" Z="-2427.179f" />
+    </value>
+    <value>
+      <Map type="string">G-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">BurudoFront</PosName>
+      <Rotate X="0f" Y="62.9341f" Z="0f" />
+      <Translate X="1705.161f" Y="496.0511f" Z="-2448.751f" />
+    </value>
+    <value>
+      <Map type="string">G-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon056</PosName>
+      <Rotate X="0f" Y="-88.96108f" Z="0f" />
+      <Translate X="1222.803f" Y="127.5614f" Z="-1212.58f" />
+    </value>
+    <value>
+      <Map type="string">G-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon056_1</PosName>
+      <Rotate X="0f" Y="-88.96108f" Z="0f" />
+      <Translate X="1224.498f" Y="127.5614f" Z="-1212.611f" />
+    </value>
+    <value>
+      <Map type="string">G-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon067</PosName>
+      <Rotate X="0f" Y="-150f" Z="0f" />
+      <Translate X="1816.143f" Y="388.2992f" Z="-1525f" />
+    </value>
+    <value>
+      <Map type="string">G-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon067_1</PosName>
+      <Rotate X="0f" Y="-150f" Z="0f" />
+      <Translate X="1816.991f" Y="388.2992f" Z="-1523.532f" />
+    </value>
+    <value>
+      <Map type="string">G-3</Map>
+      <PosName type="string">OldKorok_ForestStable</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="1059.692f" Y="127.98f" Z="-1105.493f" />
+    </value>
+    <value>
+      <Map type="string">G-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">NPC_Lanayru001_Warp</PosName>
+      <Rotate X="0f" Y="50.4203f" Z="0f" />
+      <Translate X="1577.667f" Y="182.77f" Z="-725.7244f" />
+    </value>
+    <value>
+      <Map type="string">G-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon023</PosName>
+      <Rotate X="0f" Y="-105f" Z="0f" />
+      <Translate X="1501.564f" Y="128.4185f" Z="-379.3401f" />
+    </value>
+    <value>
+      <Map type="string">G-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon023_1</PosName>
+      <Rotate X="0f" Y="-105f" Z="0f" />
+      <Translate X="1503.202f" Y="128.4185f" Z="-378.9013f" />
+    </value>
+    <value>
+      <Map type="string">G-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon033</PosName>
+      <Rotate X="0f" Y="56.36788f" Z="0f" />
+      <Translate X="1608.656f" Y="117.713f" Z="467.2929f" />
+    </value>
+    <value>
+      <Map type="string">G-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon033_1</PosName>
+      <Rotate X="0f" Y="56.36788f" Z="0f" />
+      <Translate X="1607.245f" Y="117.713f" Z="466.3539f" />
+    </value>
+    <value>
+      <Map type="string">G-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon099</PosName>
+      <Rotate X="0f" Y="-44.27508f" Z="0f" />
+      <Translate X="1835.504f" Y="260.1112f" Z="896.9803f" />
+    </value>
+    <value>
+      <Map type="string">G-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon099_1</PosName>
+      <Rotate X="0f" Y="-44.27508f" Z="0f" />
+      <Translate X="1836.687f" Y="260.1112f" Z="895.7665f" />
+    </value>
+    <value>
+      <Map type="string">G-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessKakariko</PosName>
+      <Rotate X="0f" Y="71.66536f" Z="0f" />
+      <Translate X="1837.083f" Y="218.4604f" Z="996.881f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Fukuya</PosName>
+      <Rotate X="0f" Y="37f" Z="0f" />
+      <Translate X="1853.547f" Y="224.5831f" Z="980.9296f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Npc_Impa</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="1775f" Y="228.9127f" Z="984.4f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Kakekko_3</PosName>
+      <Rotate X="0f" Y="-81.36007f" Z="0f" />
+      <Translate X="1882.174f" Y="231.3008f" Z="956.432f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Kakekko_4</PosName>
+      <Rotate X="0f" Y="36.85175f" Z="0f" />
+      <Translate X="1851.262f" Y="221.6258f" Z="994.4279f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Npc_Impa_0</PosName>
+      <Rotate X="0f" Y="-90f" Z="0f" />
+      <Translate X="1780.75f" Y="228.9127f" Z="984.4f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">HorseGate</PosName>
+      <Rotate X="0f" Y="-68.75497f" Z="0f" />
+      <Translate X="1811.687f" Y="218.53f" Z="982.5931f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower08</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="1016.777f" Y="184.0279f" Z="1723.082f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon044</PosName>
+      <Rotate X="0f" Y="81.9786f" Z="0f" />
+      <Translate X="1253.233f" Y="443.3821f" Z="1851.584f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon044_1</PosName>
+      <Rotate X="0f" Y="81.9786f" Z="0f" />
+      <Translate X="1251.555f" Y="443.3821f" Z="1851.348f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon017</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="1274.464f" Y="525.882f" Z="1938.7f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon017_1</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="1272.769f" Y="525.882f" Z="1938.7f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon045</PosName>
+      <Rotate X="0f" Y="37.60506f" Z="0f" />
+      <Translate X="1667.968f" Y="115.5371f" Z="1928.888f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon045_1</PosName>
+      <Rotate X="0f" Y="37.60506f" Z="0f" />
+      <Translate X="1666.934f" Y="115.5371f" Z="1927.545f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon047</PosName>
+      <Rotate X="0f" Y="79.99999f" Z="0f" />
+      <Translate X="1280.987f" Y="137.688f" Z="1845.333f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon047_1</PosName>
+      <Rotate X="0f" Y="79.99999f" Z="0f" />
+      <Translate X="1279.318f" Y="137.688f" Z="1845.038f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">DemoPlum</PosName>
+      <Rotate X="0f" Y="92.81917f" Z="0f" />
+      <Translate X="1872.552f" Y="223.1648f" Z="1016.067f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Kakekko_1</PosName>
+      <Rotate X="0f" Y="93.00166f" Z="0f" />
+      <Translate X="1811.041f" Y="218.5478f" Z="1000.092f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Kakekko_2</PosName>
+      <Rotate X="0f" Y="170.9239f" Z="0f" />
+      <Translate X="1901.218f" Y="233.0368f" Z="1019.194f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">Hatago_Ch</PosName>
+      <Rotate X="0f" Y="69.90085f" Z="0f" />
+      <Translate X="1745.371f" Y="115.5676f" Z="1922.61f" />
+    </value>
+    <value>
+      <Map type="string">G-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon015</PosName>
+      <Rotate X="0f" Y="114.7899f" Z="0f" />
+      <Translate X="1854.001f" Y="131.5204f" Z="2470.29f" />
+    </value>
+    <value>
+      <Map type="string">G-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon015_1</PosName>
+      <Rotate X="0f" Y="114.7899f" Z="0f" />
+      <Translate X="1852.462f" Y="131.5204f" Z="2471f" />
+    </value>
+    <value>
+      <Map type="string">G-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon061_1</PosName>
+      <Rotate X="0f" Y="-13f" Z="0f" />
+      <Translate X="1788.795f" Y="189.808f" Z="2999.198f" />
+    </value>
+    <value>
+      <Map type="string">G-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon050</PosName>
+      <Rotate X="0f" Y="-160f" Z="0f" />
+      <Translate X="1583.572f" Y="167.0076f" Z="3606.291f" />
+    </value>
+    <value>
+      <Map type="string">G-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon050_1</PosName>
+      <Rotate X="0f" Y="-160f" Z="0f" />
+      <Translate X="1584.152f" Y="167.0076f" Z="3607.884f" />
+    </value>
+    <value>
+      <Map type="string">G-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower14</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="1331.203f" Y="269.9522f" Z="3282.723f" />
+    </value>
+    <value>
+      <Map type="string">G-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon061</PosName>
+      <Rotate X="0f" Y="-13f" Z="0f" />
+      <Translate X="1788.414f" Y="189.808f" Z="3000.85f" />
+    </value>
+    <value>
+      <Map type="string">H-1</Map>
+      <PosName type="string">KeepOut_PlayerPos</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="2676.5f" Y="469.3575f" Z="-3471f" />
+    </value>
+    <value>
+      <Map type="string">H-1</Map>
+      <PosName type="string">GoronCamp_StartPos_N</PosName>
+      <Rotate X="0f" Y="-45f" Z="0f" />
+      <Translate X="2716.109f" Y="345.718f" Z="-3501.75f" />
+    </value>
+    <value>
+      <Map type="string">H-1</Map>
+      <PosName type="string">GoronCamp_StartPos_H</PosName>
+      <Rotate X="0f" Y="135f" Z="0f" />
+      <Translate X="2607.5f" Y="346.3181f" Z="-3425f" />
+    </value>
+    <value>
+      <Map type="string">H-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon091</PosName>
+      <Rotate X="0f" Y="135f" Z="0f" />
+      <Translate X="2668.502f" Y="470.013f" Z="-3463.002f" />
+    </value>
+    <value>
+      <Map type="string">H-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon091_1</PosName>
+      <Rotate X="0f" Y="135f" Z="0f" />
+      <Translate X="2667.303f" Y="470.013f" Z="-3461.803f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon064</PosName>
+      <Rotate X="0f" Y="-61.03493f" Z="0f" />
+      <Translate X="2057.802f" Y="598.0244f" Z="-2323.905f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon064_1</PosName>
+      <Rotate X="0f" Y="-61.03493f" Z="0f" />
+      <Translate X="2059.286f" Y="598.0244f" Z="-2324.726f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PosName type="string">GoronsRock_start</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="2042.766f" Y="522.1731f" Z="-2038f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon025</PosName>
+      <Rotate X="0f" Y="-87.272f" Z="0f" />
+      <Translate X="2067.638f" Y="520.7816f" Z="-2039.328f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon025_1</PosName>
+      <Rotate X="0f" Y="-87.272f" Z="0f" />
+      <Translate X="2069.331f" Y="520.7816f" Z="-2039.409f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PosName type="string">RemainsFire_Escape</PosName>
+      <Rotate X="0f" Y="-58.25963f" Z="0f" />
+      <Translate X="2468.276f" Y="993.252f" Z="-2540.785f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PosName type="string">Battle_Start</PosName>
+      <Rotate X="0f" Y="127.1966f" Z="0f" />
+      <Translate X="2179.751f" Y="632.8466f" Z="-2332.69f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PosName type="string">Bridge_Start</PosName>
+      <Rotate X="0f" Y="15f" Z="0f" />
+      <Translate X="2155.017f" Y="634.4675f" Z="-2297.967f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Clear_RemainsFire</PosName>
+      <Rotate X="0f" Y="124.9036f" Z="0f" />
+      <Translate X="2468.436f" Y="993.3097f" Z="-2540.129f" />
+    </value>
+    <value>
+      <Map type="string">H-2</Map>
+      <PosName type="string">BattlePlaying_Start</PosName>
+      <Rotate X="0f" Y="119.1752f" Z="0f" />
+      <Translate X="2224.095f" Y="633.9304f" Z="-2363.472f" />
+    </value>
+    <value>
+      <Map type="string">H-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower10</PosName>
+      <Rotate X="0f" Y="62.18873f" Z="0f" />
+      <Translate X="2182.112f" Y="508.7496f" Z="-1552.582f" />
+    </value>
+    <value>
+      <Map type="string">H-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon031</PosName>
+      <Rotate X="0f" Y="-24.79747f" Z="0f" />
+      <Translate X="2719.641f" Y="285.4244f" Z="-1157.728f" />
+    </value>
+    <value>
+      <Map type="string">H-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon031_1</PosName>
+      <Rotate X="0f" Y="-24.79747f" Z="0f" />
+      <Translate X="2720.352f" Y="285.4244f" Z="-1159.267f" />
+    </value>
+    <value>
+      <Map type="string">H-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon002</PosName>
+      <Rotate X="0f" Y="65.3172f" Z="0f" />
+      <Translate X="2673.566f" Y="247.925f" Z="-1576.906f" />
+    </value>
+    <value>
+      <Map type="string">H-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon002_1</PosName>
+      <Rotate X="0f" Y="65.3172f" Z="0f" />
+      <Translate X="2672.026f" Y="247.925f" Z="-1577.614f" />
+    </value>
+    <value>
+      <Map type="string">H-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon000</PosName>
+      <Rotate X="0f" Y="53.42984f" Z="0f" />
+      <Translate X="2308.044f" Y="213.3612f" Z="-935.843f" />
+    </value>
+    <value>
+      <Map type="string">H-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon000_1</PosName>
+      <Rotate X="0f" Y="53.42984f" Z="0f" />
+      <Translate X="2306.683f" Y="213.3612f" Z="-936.853f" />
+    </value>
+    <value>
+      <Map type="string">H-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon070</PosName>
+      <Rotate X="0f" Y="52.71213f" Z="0f" />
+      <Translate X="2245.734f" Y="148.4889f" Z="-287.4651f" />
+    </value>
+    <value>
+      <Map type="string">H-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon070_1</PosName>
+      <Rotate X="0f" Y="52.71213f" Z="0f" />
+      <Translate X="2244.385f" Y="148.4889f" Z="-288.4922f" />
+    </value>
+    <value>
+      <Map type="string">H-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower12</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="2258f" Y="310.9376f" Z="-99.99997f" />
+    </value>
+    <value>
+      <Map type="string">H-4</Map>
+      <PosName type="string">Bottle_Start</PosName>
+      <Rotate X="0f" Y="64.17126f" Z="0f" />
+      <Translate X="2753f" Y="189.6707f" Z="-83.99997f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">AssassinDemo</PosName>
+      <Rotate X="0f" Y="93.96505f" Z="0f" />
+      <Translate X="2009.853f" Y="284.9254f" Z="963.374f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">AssassinEnd</PosName>
+      <Rotate X="0f" Y="154.8811f" Z="0f" />
+      <Translate X="2014.55f" Y="284.9286f" Z="958.9904f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon112</PosName>
+      <Rotate X="0f" Y="-121f" Z="0f" />
+      <Translate X="2032.609f" Y="286.0444f" Z="967.4836f" />
+    </value>
+    <value>
+      <Map type="string">G-6</Map>
+      <PosName type="string">CDungeon112_1</PosName>
+      <Rotate X="0f" Y="-121f" Z="0f" />
+      <Translate X="2033.633f" Y="286.0163f" Z="968.0991f" />
+    </value>
+    <value>
+      <Map type="string">H-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon024</PosName>
+      <Rotate X="0f" Y="1.054681f" Z="0f" />
+      <Translate X="2621.771f" Y="249.4011f" Z="387.4278f" />
+    </value>
+    <value>
+      <Map type="string">H-5</Map>
+      <PosName type="string">CDungeon024_1</PosName>
+      <Rotate X="0f" Y="1.054681f" Z="0f" />
+      <Translate X="2621.749f" Y="249.373f" Z="386.233f" />
+    </value>
+    <value>
+      <Map type="string">H-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Clear_RemainsWater</PosName>
+      <Rotate X="0f" Y="57.38702f" Z="0f" />
+      <Translate X="2911.373f" Y="388.6737f" Z="206.499f" />
+    </value>
+    <value>
+      <Map type="string">H-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">HatenoGate</PosName>
+      <Rotate X="0f" Y="90f" Z="0f" />
+      <Translate X="2294.521f" Y="116.7875f" Z="1838.05f" />
+    </value>
+    <value>
+      <Map type="string">H-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon019</PosName>
+      <Rotate X="0f" Y="-117.8001f" Z="0f" />
+      <Translate X="2689.519f" Y="220.9526f" Z="1329.195f" />
+    </value>
+    <value>
+      <Map type="string">H-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon019_1</PosName>
+      <Rotate X="0f" Y="-117.8001f" Z="0f" />
+      <Translate X="2691.018f" Y="220.9526f" Z="1329.986f" />
+    </value>
+    <value>
+      <Map type="string">H-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon014</PosName>
+      <Rotate X="0f" Y="42.39888f" Z="0f" />
+      <Translate X="2507.226f" Y="119.1806f" Z="1501.633f" />
+    </value>
+    <value>
+      <Map type="string">H-6</Map>
+      <PosName type="string">CDungeon014_1</PosName>
+      <Rotate X="0f" Y="42.39888f" Z="0f" />
+      <Translate X="2506.42f" Y="119.1525f" Z="1500.751f" />
+    </value>
+    <value>
+      <Map type="string">H-6</Map>
+      <PosName type="string">Quest_OldKorok_Help</PosName>
+      <Rotate X="0f" Y="40f" Z="0f" />
+      <Translate X="2066.92f" Y="188.4f" Z="1418.993f" />
+    </value>
+    <value>
+      <Map type="string">H-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower13</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="2735.5f" Y="336.2022f" Z="2142.5f" />
+    </value>
+    <value>
+      <Map type="string">H-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon111</PosName>
+      <Rotate X="0f" Y="-122.613f" Z="0f" />
+      <Translate X="2629.788f" Y="318.1804f" Z="2829.437f" />
+    </value>
+    <value>
+      <Map type="string">H-7</Map>
+      <PosName type="string">CDungeon111_1</PosName>
+      <Rotate X="0f" Y="-122.613f" Z="0f" />
+      <Translate X="2630.794f" Y="318.1523f" Z="2830.081f" />
+    </value>
+    <value>
+      <Map type="string">H-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon006</PosName>
+      <Rotate X="0f" Y="9.992398f" Z="0f" />
+      <Translate X="2834.955f" Y="152.7675f" Z="3320.029f" />
+    </value>
+    <value>
+      <Map type="string">H-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon006_1</PosName>
+      <Rotate X="0f" Y="9.992398f" Z="0f" />
+      <Translate X="2834.661f" Y="152.7675f" Z="3318.359f" />
+    </value>
+    <value>
+      <Map type="string">H-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessUotori</PosName>
+      <Rotate X="0f" Y="96.69296f" Z="0f" />
+      <Translate X="2920.179f" Y="106.2482f" Z="3444.933f" />
+    </value>
+    <value>
+      <Map type="string">H-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon096</PosName>
+      <Rotate X="0f" Y="115.7375f" Z="0f" />
+      <Translate X="2015.283f" Y="301.5088f" Z="3281.007f" />
+    </value>
+    <value>
+      <Map type="string">H-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon096_1</PosName>
+      <Rotate X="0f" Y="115.7375f" Z="0f" />
+      <Translate X="2013.756f" Y="301.5088f" Z="3281.743f" />
+    </value>
+    <value>
+      <Map type="string">I-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon102</PosName>
+      <Rotate X="0f" Y="-158.0174f" Z="0f" />
+      <Translate X="3321.018f" Y="298.699f" Z="-3428.969f" />
+    </value>
+    <value>
+      <Map type="string">I-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon102_1</PosName>
+      <Rotate X="0f" Y="-158.0174f" Z="0f" />
+      <Translate X="3321.652f" Y="298.699f" Z="-3427.396f" />
+    </value>
+    <value>
+      <Map type="string">I-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon084</PosName>
+      <Rotate X="0f" Y="-34.6512f" Z="0f" />
+      <Translate X="3772.595f" Y="108.9004f" Z="-2697.328f" />
+    </value>
+    <value>
+      <Map type="string">I-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon084_1</PosName>
+      <Rotate X="0f" Y="-34.6512f" Z="0f" />
+      <Translate X="3773.559f" Y="108.9004f" Z="-2698.722f" />
+    </value>
+    <value>
+      <Map type="string">I-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessPowerSpa</PosName>
+      <Rotate X="0f" Y="143.858f" Z="0f" />
+      <Translate X="3758.25f" Y="108.9962f" Z="-2676.224f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_Tower11</PosName>
+      <Rotate X="0f" Y="-130f" Z="0f" />
+      <Translate X="3301.106f" Y="593.8022f" Z="-1505.885f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon075</PosName>
+      <Rotate X="0f" Y="170f" Z="0f" />
+      <Translate X="3901.114f" Y="354.7871f" Z="-1311.865f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon075_1</PosName>
+      <Rotate X="0f" Y="170f" Z="0f" />
+      <Translate X="3900.82f" Y="354.7871f" Z="-1310.195f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon048</PosName>
+      <Rotate X="0f" Y="99.4727f" Z="0f" />
+      <Translate X="3036.381f" Y="348.6595f" Z="-1669.364f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon048_1</PosName>
+      <Rotate X="0f" Y="99.4727f" Z="0f" />
+      <Translate X="3034.709f" Y="348.6595f" Z="-1669.085f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">TsuyaDemo</PosName>
+      <Rotate X="0f" Y="98.54873f" Z="0f" />
+      <Translate X="3134.845f" Y="306.8611f" Z="-1664.167f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">HaruriDemoFinish</PosName>
+      <Rotate X="0f" Y="9.167324f" Z="0f" />
+      <Translate X="3969.156f" Y="233.4983f" Z="-1591.592f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">IchikaraStart</PosName>
+      <Rotate X="0f" Y="-84.27042f" Z="0f" />
+      <Translate X="3989.063f" Y="233.323f" Z="-1613.944f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">SakuradaGoDemo</PosName>
+      <Rotate X="0f" Y="34.37746f" Z="0f" />
+      <Translate X="3946.437f" Y="233.6599f" Z="-1606.364f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">Marry_Player</PosName>
+      <Rotate X="0f" Y="-80f" Z="0f" />
+      <Translate X="3974.781f" Y="233.4261f" Z="-1612.641f" />
+    </value>
+    <value>
+      <Map type="string">I-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessIchikara</PosName>
+      <Rotate X="0f" Y="-80f" Z="0f" />
+      <Translate X="3969.389f" Y="233.4278f" Z="-1611.72f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PosName type="string">RemainsWater_1</PosName>
+      <Rotate X="0f" Y="19.06423f" Z="0f" />
+      <Translate X="3581.098f" Y="316.9922f" Z="-387.0611f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon005</PosName>
+      <Rotate X="0f" Y="-24.1673f" Z="0f" />
+      <Translate X="3319.814f" Y="239.2957f" Z="-510.4418f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon005_1</PosName>
+      <Rotate X="0f" Y="-24.1673f" Z="0f" />
+      <Translate X="3320.508f" Y="239.2957f" Z="-511.9885f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon101</PosName>
+      <Rotate X="0f" Y="-122f" Z="0f" />
+      <Translate X="3141.902f" Y="280.013f" Z="-421.6726f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PosName type="string">CDungeon101_1</PosName>
+      <Rotate X="0f" Y="-122f" Z="0f" />
+      <Translate X="3142.916f" Y="279.9849f" Z="-421.0394f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">KapodaMove</PosName>
+      <Rotate X="0f" Y="43.54481f" Z="0f" />
+      <Translate X="3326.678f" Y="256.412f" Z="-524.2499f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessZora</PosName>
+      <Rotate X="0f" Y="156.4631f" Z="0f" />
+      <Translate X="3315.613f" Y="255.6441f" Z="-501.0026f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PosName type="string">RemainsWater_Escape</PosName>
+      <Rotate X="0f" Y="197.918f" Z="0f" />
+      <Translate X="3580.872f" Y="316.9922f" Z="-387.795f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PosName type="string">RemainsWater</PosName>
+      <Rotate X="0f" Y="156.78f" Z="0f" />
+      <Translate X="3283.873f" Y="244.662f" Z="-430.411f" />
+    </value>
+    <value>
+      <Map type="string">I-4</Map>
+      <PosName type="string">ibuturetry</PosName>
+      <Rotate X="0f" Y="22.91831f" Z="0f" />
+      <Translate X="3572.232f" Y="317.125f" Z="-397.2549f" />
+    </value>
+    <value>
+      <Map type="string">I-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon016</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="3333.5f" Y="119.013f" Z="410.6953f" />
+    </value>
+    <value>
+      <Map type="string">I-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon016_1</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="3333.5f" Y="119.013f" Z="409f" />
+    </value>
+    <value>
+      <Map type="string">I-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon117</PosName>
+      <Rotate X="0f" Y="65f" Z="0f" />
+      <Translate X="3890.455f" Y="572.8215f" Z="1318.824f" />
+    </value>
+    <value>
+      <Map type="string">I-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon117_1</PosName>
+      <Rotate X="0f" Y="65f" Z="0f" />
+      <Translate X="3888.919f" Y="572.8215f" Z="1318.108f" />
+    </value>
+    <value>
+      <Map type="string">I-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessWisdomSpa</PosName>
+      <Rotate X="0f" Y="-114.1554f" Z="0f" />
+      <Translate X="3914.334f" Y="572.5294f" Z="1329.894f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">MiniGameStart</PosName>
+      <Rotate X="0f" Y="99.69466f" Z="0f" />
+      <Translate X="3805.365f" Y="288.4733f" Z="1999.057f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos001</PosName>
+      <Rotate X="0f" Y="180f" Z="0f" />
+      <Translate X="3866.711f" Y="104.8573f" Z="2228.079f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon039</PosName>
+      <Rotate X="0f" Y="-135f" Z="0f" />
+      <Translate X="3381.912f" Y="242.6054f" Z="2209.335f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon039_1</PosName>
+      <Rotate X="0f" Y="-135f" Z="0f" />
+      <Translate X="3383.111f" Y="242.6054f" Z="2210.534f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">PuruaDemoFinished</PosName>
+      <Rotate X="0f" Y="-67.09354f" Z="0f" />
+      <Translate X="3776.102f" Y="356.4323f" Z="2125.412f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">SimonDemoFinished</PosName>
+      <Rotate X="0f" Y="40.10704f" Z="0f" />
+      <Translate X="3777.401f" Y="356.4323f" Z="2133.05f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">SakuradaDemoFine</PosName>
+      <Rotate X="0f" Y="74.48453f" Z="0f" />
+      <Translate X="3328.637f" Y="235.2332f" Z="2283.084f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">WarpHatenoLabo</PosName>
+      <Rotate X="0f" Y="156f" Z="0f" />
+      <Translate X="3779.744f" Y="355.9978f" Z="2111.068f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">HatenoLaboDemo</PosName>
+      <Rotate X="0f" Y="75f" Z="0f" />
+      <Translate X="3781.389f" Y="357.1172f" Z="2125.001f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">GoddessHateno</PosName>
+      <Rotate X="0f" Y="151.8794f" Z="0f" />
+      <Translate X="3437.514f" Y="235.8807f" Z="2101.55f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">MiniGameGoal</PosName>
+      <Rotate X="0f" Y="104.3696f" Z="0f" />
+      <Translate X="3629.728f" Y="283.7028f" Z="2075.506f" />
+    </value>
+    <value>
+      <Map type="string">I-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">DemonPos</PosName>
+      <Rotate X="0f" Y="174.4877f" Z="0f" />
+      <Translate X="3285.315f" Y="217.4805f" Z="2200.562f" />
+    </value>
+    <value>
+      <Map type="string">I-8</Map>
+      <PosName type="string">NakedRetire</PosName>
+      <Rotate X="0f" Y="80.30536f" Z="0f" />
+      <Translate X="3682.929f" Y="349.6014f" Z="3319.404f" />
+    </value>
+    <value>
+      <Map type="string">I-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon081</PosName>
+      <Rotate X="0f" Y="-105.2208f" Z="0f" />
+      <Translate X="3649.259f" Y="350.3494f" Z="3305.841f" />
+    </value>
+    <value>
+      <Map type="string">I-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon081_1</PosName>
+      <Rotate X="0f" Y="-105.2208f" Z="0f" />
+      <Translate X="3650.895f" Y="350.3494f" Z="3306.286f" />
+    </value>
+    <value>
+      <Map type="string">I-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon034</PosName>
+      <Rotate X="0f" Y="23f" Z="0f" />
+      <Translate X="3440.487f" Y="120.6896f" Z="3324.74f" />
+    </value>
+    <value>
+      <Map type="string">I-8</Map>
+      <PosName type="string">CDungeon034_1</PosName>
+      <Rotate X="0f" Y="23f" Z="0f" />
+      <Translate X="3440.02f" Y="120.6614f" Z="3323.639f" />
+    </value>
+    <value>
+      <Map type="string">J-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">WarpAkkareLabo</PosName>
+      <Rotate X="0f" Y="-23f" Z="0f" />
+      <Translate X="4507.4f" Y="351.418f" Z="-3146.3f" />
+    </value>
+    <value>
+      <Map type="string">J-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon105</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="4655f" Y="237.413f" Z="-3700.805f" />
+    </value>
+    <value>
+      <Map type="string">J-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon105_1</PosName>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="4655f" Y="237.413f" Z="-3702.5f" />
+    </value>
+    <value>
+      <Map type="string">J-1</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">AncientOvenFirst</PosName>
+      <Rotate X="0f" Y="155.021f" Z="0f" />
+      <Translate X="4514.346f" Y="353.1197f" Z="-3161.384f" />
+    </value>
+    <value>
+      <Map type="string">J-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon013</PosName>
+      <Rotate X="0f" Y="-62.10141f" Z="0f" />
+      <Translate X="4287.659f" Y="237.4321f" Z="-2726.041f" />
+    </value>
+    <value>
+      <Map type="string">J-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon013_1</PosName>
+      <Rotate X="0f" Y="-62.10141f" Z="0f" />
+      <Translate X="4289.157f" Y="237.4321f" Z="-2726.834f" />
+    </value>
+    <value>
+      <Map type="string">J-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon109</PosName>
+      <Rotate X="0f" Y="153.751f" Z="0f" />
+      <Translate X="4528.665f" Y="107.7789f" Z="-2135.743f" />
+    </value>
+    <value>
+      <Map type="string">J-2</Map>
+      <PosName type="string">CDungeon109_1</PosName>
+      <Rotate X="0f" Y="153.751f" Z="0f" />
+      <Translate X="4528.136f" Y="107.7508f" Z="-2134.671f" />
+    </value>
+    <value>
+      <Map type="string">J-2</Map>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="4250.788f" Y="0f" Z="-2753.406f" />
+    </value>
+    <value>
+      <Map type="string">J-2</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">HigakkareBF_Goal</PosName>
+      <Rotate X="0f" Y="-132.9262f" Z="0f" />
+      <Translate X="4249.789f" Y="231.4366f" Z="-2756.858f" />
+    </value>
+    <value>
+      <Map type="string">J-3</Map>
+      <Rotate X="0f" Y="0f" Z="0f" />
+      <Translate X="4215.434f" Y="233.3866f" Z="-1607.653f" />
+    </value>
+    <value>
+      <Map type="string">J-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon066</PosName>
+      <Rotate X="0f" Y="-39.29415f" Z="0f" />
+      <Translate X="4703.374f" Y="242.5114f" Z="-1303.169f" />
+    </value>
+    <value>
+      <Map type="string">J-3</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon066_1</PosName>
+      <Rotate X="0f" Y="-39.29415f" Z="0f" />
+      <Translate X="4704.447f" Y="242.5114f" Z="-1304.481f" />
+    </value>
+    <value>
+      <Map type="string">J-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon077</PosName>
+      <Rotate X="0f" Y="13.01748f" Z="0f" />
+      <Translate X="4196.56f" Y="323.1274f" Z="-847.9233f" />
+    </value>
+    <value>
+      <Map type="string">J-4</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon077_1</PosName>
+      <Rotate X="0f" Y="13.01748f" Z="0f" />
+      <Translate X="4196.178f" Y="323.1274f" Z="-849.5751f" />
+    </value>
+    <value>
+      <Map type="string">J-5</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon114</PosName>
+      <Rotate X="0f" Y="-17.40291f" Z="0f" />
+      <Translate X="4242.794f" Y="110.9349f" Z="261.7275f" />
+    </value>
+    <value>
+      <Map type="string">J-5</Map>
+      <PosName type="string">CDungeon114_1</PosName>
+      <Rotate X="0f" Y="-17.40291f" Z="0f" />
+      <Translate X="4243.152f" Y="110.9068f" Z="260.5872f" />
+    </value>
+    <value>
+      <Map type="string">J-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon119</PosName>
+      <Rotate X="0f" Y="100f" Z="0f" />
+      <Translate X="4190.835f" Y="288.1624f" Z="1685.135f" />
+    </value>
+    <value>
+      <Map type="string">J-6</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon119_1</PosName>
+      <Rotate X="0f" Y="100f" Z="0f" />
+      <Translate X="4189.166f" Y="288.1624f" Z="1685.43f" />
+    </value>
+    <value>
+      <Map type="string">J-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon082</PosName>
+      <Rotate X="0f" Y="-135f" Z="0f" />
+      <Translate X="4005.688f" Y="107.1959f" Z="2984.036f" />
+    </value>
+    <value>
+      <Map type="string">J-7</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">CDungeon082_1</PosName>
+      <Rotate X="0f" Y="-135f" Z="0f" />
+      <Translate X="4006.887f" Y="107.1959f" Z="2985.234f" />
+    </value>
+    <value>
+      <Map type="string">J-8</Map>
+      <PosName type="string">NakedRestart</PosName>
+      <Rotate X="0f" Y="36.6693f" Z="0f" />
+      <Translate X="4499.582f" Y="105.9586f" Z="3427.65f" />
+    </value>
+    <value>
+      <Map type="string">J-8</Map>
+      <PlayerState type="string">Wait</PlayerState>
+      <PosName type="string">StartPos_CDungeon097</PosName>
+      <Rotate X="0f" Y="-120f" Z="0f" />
+      <Translate X="4729.521f" Y="218.0132f" Z="3767.494f" />
+    </value>
+    <value>
+      <Map type="string">J-8</Map>
+      <PosName type="string">CDungeon097_1</PosName>
+      <Rotate X="0f" Y="-120f" Z="0f" />
+      <Translate X="4730.556f" Y="217.985f" Z="3768.092f" />
+    </value>
+  </StartPos>

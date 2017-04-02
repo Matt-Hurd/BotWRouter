@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import xml.etree.ElementTree
 import numpy as np
 import json
-from distance_array import *
 from tsp import *
 
 class Shrine:

@@ -35,14 +35,21 @@ for s in e:
 
 
 ar = np.asarray(pos)
-print 'Min Y', ar[:,0].min(), 'Max Y', ar[:,0].max()
-print 'Min X', ar[:,1].min(), 'Max X', ar[:,1].max()
-print 'Min Z', ar[:,2].min(),'Max Z', ar[:,2].max()
 
 del pos[56]
 del pos[55]
 del pos[54]
 del pos[44]
+
+
+koroks = []
+e = xml.etree.ElementTree.parse('KorokLocations.xml').getroot()
+for s in e.find('KorokLocation'):
+	for child in s:
+		if child.tag == "Translate":
+			y, x, z = map(float, [x[:-1] for x in s[-1].attrib.values()])
+			pos.append([y, x, z])
+			koroks.append([y, x, z])
 
 path = optimized_travelling_salesman(pos, pos[63])
 print total_distance(path)
@@ -55,15 +62,21 @@ plt.grid(False)
 xlist = [(x + 5000) / 2 for x in ar[:,1].tolist()]
 zlist = [(x + 4000) / 2 for x in ar[:,2].tolist()]
 
-x = 0
-for shrine in shrines:
-    plt.annotate(shrine.name + " " + str(x), ((shrine.x + 5000) / 2, (shrine.z + 4000) / 2))
-    x += 1
+# x = 0
+# for shrine in shrines:
+#     plt.annotate(shrine.name + " " + str(x), ((shrine.x + 5000) / 2, (shrine.z + 4000) / 2))
+#     x += 1
 
 for x in range(len(path) - 1):
-	print path[x]
 	plt.plot([(path[x][1] + 5000) / 2, (path[x + 1][1] + 5000) / 2], [(path[x][2] + 4000) / 2, (path[x + 1][2] + 4000) / 2], 'k-', lw=1)
 
 plt.scatter(x=xlist, y=zlist, c='r', s=40)
+
+
+ar = np.asarray(koroks)
+
+xlist = [(x + 5000) / 2 for x in ar[:,1].tolist()]
+zlist = [(x + 4000) / 2 for x in ar[:,2].tolist()]
+plt.scatter(x=xlist, y=zlist, c='g', s=20)
 
 plt.show()

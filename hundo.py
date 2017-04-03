@@ -8,10 +8,12 @@ import route_utils as botw
 
 def main(interactive = False):
 	shrines, pos = botw.load_dungeons()
-	path = botw.find_route(pos, [], recalc=True)
+	koroks = botw.load_koroks()
+	path = botw.find_route(pos, koroks, recalc=True)
 	im = plt.imread("BotW-Map-Grid.jpg")
 	implot = plt.imshow(im)
 	botw.plot_shrines(pos, shrines)
+	botw.plot_koroks(koroks)
 	if interactive:
 		plt.ion()
 	botw.plot_path(path, interactive)

@@ -14,3 +14,6 @@ The locations were extracted from the game, and contain the X, Y, and Z coordina
 ## Usage  
 First, install the requirements `pip install -r requirements.txt`  
 Then, run the script for the category you want`python shrines.py` or `python hundo.py`
+
+## Images
+![BotW Map](https://i.imgur.com/xMVUXpb.jpg "BotW Map")
